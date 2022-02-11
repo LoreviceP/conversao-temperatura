@@ -1,4 +1,4 @@
-## Participação na semana Iniciativa Kubernets 
+## Participação na semana Iniciativa Kubernetes 
 
 https://iniciativakubernetes.com.br/
 
